@@ -1,0 +1,25 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+React-Redux-Admin-Dashboard-Jwt-RHookform-Zod-MaterialUI/node_modules
+React-Redux-Admin-Dashboard-Jwt-RHookform-Zod-MaterialUI/.pnp
+React-Redux-Admin-Dashboard-Jwt-RHookform-Zod-MaterialUI/.pnp.js
+
+# testing
+React-Redux-Admin-Dashboard-Jwt-RHookform-Zod-MaterialUI/coverage
+
+# production
+React-Redux-Admin-Dashboard-Jwt-RHookform-Zod-MaterialUI/build
+
+JwtAuthAspNet8WebAPI/.vs
+JwtAuthAspNet8WebAPI/*.dll
+JwtAuthAspNet8WebAPI/*.pdb
+JwtAuthAspNet8WebAPI/*.cache
+JwtAuthAspNet8WebAPI/bin
+JwtAuthAspNet8WebAPI/*/bin
+JwtAuthAspNet8WebAPI/**/bin
+JwtAuthAspNet8WebAPI/**/debug
+JwtAuthAspNet8WebAPI/**/obj
+JwtAuthAspNet8WebAPI/*/data-mssql
+JwtAuthAspNet8WebAPI/**/data-mssql
+JwtAuthAspNet8WebAPI/*.user
